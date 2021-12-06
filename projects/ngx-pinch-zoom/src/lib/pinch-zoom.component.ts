@@ -281,7 +281,7 @@ export class PinchZoomComponent implements OnDestroy {
     }
 
     destroy() {
-        this.pinchZoom.destroy();
+        this.pinchZoom?.destroy();
     }
 
     getPropertiesValue(propertyName:PropertyName) {
