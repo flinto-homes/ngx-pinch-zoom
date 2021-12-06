@@ -4,7 +4,7 @@
 #     npm login
 
 rm -rf dist
-ng build ngx-drag-scroll --configuration=production
-cd dist/ngx-drag-scroll
+ng build ngx-pinch-zoom --configuration=production
+cd dist/ngx-pinch-zoom
 npm publish
 cd ../..

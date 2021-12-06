@@ -1,29 +1,8 @@
 {
-  "name": "ngx-pinch-zoom",
-  "version": "2.5.5",
+  "name": "@flinto-homes/ngx-pinch-zoom",
+  "version": "13.0.0",
   "description": "Pinch zoom component for Angular.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/drozhzhin-n-e/ngx-pinch-zoom.git"
-  },
-  "author": {
-    "name": "Nikita Drozhzhin",
-    "email": "drozhzhin.n.e@gmail.com"
-  },
-  "homepage": "http://ivylab.space/pinch-zoom",
-  "keywords": [
-    "Angular",
-    "Angular 2",
-    "ngx",
-    "ng2",
-    "Pinch zoom",
-    "Image zoom",
-    "Touch image zoom"
-  ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/drozhzhin-n-e/ngx-pinch-zoom/issues"
-  },
   "peerDependencies": {
     "@angular/common": "^13.0.0",
     "@angular/core": "^13.0.0"
